@@ -6,3 +6,7 @@ p {
 	font-size: 20px;
 	font-weight: bold;
 }
+
+span {
+	margin: 0;
+}
